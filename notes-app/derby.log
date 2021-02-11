@@ -1,0 +1,80 @@
+----------------------------------------------------------------
+Mon Jan 11 17:32:23 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-f153-66cc-000011414820 
+on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/2a77ff6e-cb79-4e03-9e14-b95cb0a19dbd with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/sajalkaushik/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/sajalkaushik/Desktop/Items/notes-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 11 17:50:58 IST 2021:
+Shutting down instance a816c00e-0176-f153-66cc-000011414820 on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/2a77ff6e-cb79-4e03-9e14-b95cb0a19dbd with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Mon Jan 11 17:50:59 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 522b00e8-0176-f153-66cc-000011414820 
+on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/10be5b00-7a1b-4293-b555-4330c64004dc with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/sajalkaushik/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/sajalkaushik/Desktop/Items/notes-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 11 17:51:01 IST 2021:
+Shutting down instance 522b00e8-0176-f153-66cc-000011414820 on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/10be5b00-7a1b-4293-b555-4330c64004dc with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Mon Jan 11 17:51:02 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3ebfc1a6-0176-f153-66cc-000011414820 
+on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/52f27b84-50c1-44e5-a9c9-76b64586a67c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/sajalkaushik/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/sajalkaushik/Desktop/Items/notes-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 11 17:52:50 IST 2021:
+Shutting down instance 3ebfc1a6-0176-f153-66cc-000011414820 on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/52f27b84-50c1-44e5-a9c9-76b64586a67c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Mon Jan 11 17:52:51 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7bff826d-0176-f153-66cc-000011414820 
+on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/3fb4c1e3-34c5-447b-9dd9-4e5a00691f84 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/sajalkaushik/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/sajalkaushik/Desktop/Items/notes-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 11 18:03:33 IST 2021:
+Shutting down instance 7bff826d-0176-f153-66cc-000011414820 on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/3fb4c1e3-34c5-447b-9dd9-4e5a00691f84 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Mon Jan 11 18:03:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4a55437a-0176-f153-66cc-000011414820 
+on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/6732fc50-0f8a-4744-8732-b9bbe503b50c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/sajalkaushik/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/sajalkaushik/Desktop/Items/notes-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 11 19:15:20 IST 2021:
+Shutting down instance 4a55437a-0176-f153-66cc-000011414820 on database directory memory:/Users/sajalkaushik/Desktop/Items/notes-app/6732fc50-0f8a-4744-8732-b9bbe503b50c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
